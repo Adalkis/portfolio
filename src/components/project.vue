@@ -21,7 +21,7 @@
            <containerProject
         image_path="musicplayer.png"
         title="Music Player"
-        subtitle="Music player website by Vue.js, it allows the user to play music"
+        subtitle="Music player website by Vue.js, it allows the user to play music."
         link="https://github.com/Adalkis/MusicPlayer"
       />
 

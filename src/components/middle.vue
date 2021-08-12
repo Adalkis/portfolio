@@ -5,7 +5,7 @@
     </div>
     <div data-aos="fade-up" >
       <p class="about_subtitle mt-5 mb-5 mx-5" >
-      I'm a junior full stack software developer, I love learning new
+      I'm a full stack software developer, I love learning new
       techonologies in order to be updated. An apparent website makes me feel
       comfortable and secure, so this is what I try to do when I create one. I
       value simplicity and that's one of the things that I offer. If I'm not

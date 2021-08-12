@@ -4,7 +4,7 @@
       <div class="white_text text-start">
         <p class="first_white_text">Hello I'm</p>
         <p class="second_white_text">Adalkis Peña </p>
-        <p class="third_white_text">Junior Full Stack Web Developer</p>
+        <p class="third_white_text">Full Stack Web Developer</p>
       </div>
     </div>
     <div class="green">

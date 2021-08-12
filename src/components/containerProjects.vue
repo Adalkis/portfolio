@@ -121,4 +121,7 @@ a {
     display: flex;
     justify-content: center;
 }
+.link.mt-5 {
+    margin-top: 10px !important;
+}
 </style>
