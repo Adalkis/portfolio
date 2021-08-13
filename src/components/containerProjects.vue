@@ -15,7 +15,7 @@
          
           <div class="container_link">
             <div class="link mt-5">
-              <a :href="link">GitHub repo</a>
+              <a :href="link" target="_blank">GitHub repo</a>
             </div>
           </div>
         </b-card-body>

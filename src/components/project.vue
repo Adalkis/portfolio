@@ -45,7 +45,7 @@
         title="Calories"
         subtitle="Calories website by vue, bootstrap and laravel. It allows the user to see the calories of each food
           and you can track the amount of calories you consume per day."
-        link="https://github.com/Adalkis/MusicPlayer"
+        link="https://github.com/Adalkis/Get-Calories"
       />
     </div>
     </div>
@@ -68,7 +68,7 @@
         title="Desahogate"
         subtitle="Desahogate website by vue, bootstrap and laravel. It allows the user to share stories and to comment
           them."
-        link="https://github.com/Adalkis/MusicPlayer"
+        link="https://github.com/Adalkis/Desahogate"
       />
     </div>
     </div>
